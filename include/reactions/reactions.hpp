@@ -33,6 +33,7 @@
 #include "../reactions_lib/swpm_reaction_controller.hpp"
 #include "../reactions_lib/transformation_wrapper.hpp"
 #include "../reactions_lib/unary_array_transform_data.hpp"
+#include "../reactions_lib/util_functors.hpp"
 #include "../reactions_lib/utils.hpp"
 
 #include "../reactions_lib/cross_sections/AMJUEL_fit_cs.hpp"
